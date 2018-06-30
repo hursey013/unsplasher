@@ -37,4 +37,4 @@ Add the following line to the end of the file, being sure to update the path to 
 ```
 */5 * * * * /path/to/unsplasher/update.sh
 ```
-That should be it!
+Enjoy your new wallpapers!
