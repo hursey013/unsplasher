@@ -1,5 +1,5 @@
 # unsplasher
-Random desktop wallpapers for Xcfe Desktop using [Unsplash Source](https://source.unsplash.com/)
+Random desktop wallpapers for Xfce Desktop using [Unsplash Source](https://source.unsplash.com/)
 
 ## Installation
 Clone this repository to your local machine
