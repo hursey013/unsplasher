@@ -6,7 +6,7 @@ FEATURED_ONLY=true #limit results to photos included in curated collections
 LOCAL=/tmp/wallpaper.jpg #where to store wallpaper locally
 REMOTE=https://source.unsplash.com/"$SIZE"/?"$TERMS"
 
-if [ "$FEATURED_ONLY" = true ] ; then
+if [ "$FEATURED_ONLY" = true ]; then
   REMOTE="$REMOTE,featured"
 fi
 
