@@ -4,7 +4,7 @@ Random desktop wallpapers for Xcfe Desktop using [Unsplash Source](https://sourc
 ## Installation
 Clone this repository to your local machine
 ```
-git clone ...
+git clone https://github.com/hursey013/unsplasher.git
 cd unsplasher
 ```
 Make the update script executable
