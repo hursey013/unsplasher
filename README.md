@@ -11,22 +11,25 @@ Make the update script executable
 ```
 sudo chmod +x update.sh
 ```
-Configure any custom options
+
+### Configuration
 ```
 nano update.sh
 ```
-### Default options
 ```
 SIZE=1920x1080 #size of desktop
 TERMS=wallpaper,nature #comma separated list
 FEATURED_ONLY=true #limit results to photos included in curated collections
 LOCAL=/tmp/wallpaper.jpg #where to store wallpaper locally
 ```
-To run the update script manually
+### Running the update script
+#### Manual
+To trigger the update manually
 ```
 ./update.ssh
 ```
-To configure it to change the wallpaper automatically
+#### Automatic
+To configurethe wallpaper to change automatically
 ```
 crontab -e
 ```
