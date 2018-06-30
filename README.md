@@ -29,7 +29,7 @@ To trigger the update manually
 ./update.ssh
 ```
 #### Automatic
-To configurethe wallpaper to change automatically
+To configure the wallpaper to change automatically
 ```
 crontab -e
 ```
