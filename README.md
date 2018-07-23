@@ -26,7 +26,7 @@ LOCAL=/tmp/wallpaper.jpg #where to store wallpaper locally
 #### Manual
 To trigger the update manually
 ```
-./update.ssh
+./update.sh
 ```
 #### Automatic
 To configure the wallpaper to change automatically
